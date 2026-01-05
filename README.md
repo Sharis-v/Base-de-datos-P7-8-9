@@ -23,7 +23,7 @@ Este proyecto está dockerizado para evitar errores de configuración.
 2. **Práctica 8:** Operadores avanzados (Join, Agrupación, Agregación y División Relacional).
 3. **Práctica 9:** Cálculo Relacional de Tuplas (CRT) y Dominios (CRD) demostrando equivalencia con SQL.
 
-## 🚀 Justificación del Proyecto 
+##  Justificación del Proyecto 
 
 Este proyecto ha sido diseñado  para cubrir los requerimientos de entrega mediante un repositorio de GitHub, asegurando la evaluación de la lógica relacional:
 
@@ -34,7 +34,7 @@ Este proyecto ha sido diseñado  para cubrir los requerimientos de entrega media
 
 ---
 
-## 📊 Mapeo de Prácticas y Consultas
+##  Mapeo de Prácticas y Consultas
 
 | ID   | Práctica | Operación Relacional | Descripción |
 |:-----|:--------:|:---------------------|:------------|
@@ -52,7 +52,7 @@ Este proyecto ha sido diseñado  para cubrir los requerimientos de entrega media
 
 ---
 
-## 🛠️ Guía de Despliegue (Docker)
+## Guía de Despliegue (Docker)
 
 El proyecto está completamente dockerizado para garantizar que funcione en cualquier entorno sin necesidad de configurar dependencias locales.
 
